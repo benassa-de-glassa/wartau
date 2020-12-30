@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@wartau/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@wartau/api-interfaces": ["libs/api-interfaces/src/index.ts"],
+      "@wartau/web-ui": ["libs/web-ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
